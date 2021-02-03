@@ -1,1 +1,1 @@
-- [eeekPi Raspberry Pi 4 Cluster Case](https://www.amazon.ca/GeeekPi-Raspberry-Transparent-Stackable-Heatsink/dp/B07MW3GM1T)
+- [GeeekPi Raspberry Pi 4 Cluster Case](https://www.amazon.ca/GeeekPi-Raspberry-Transparent-Stackable-Heatsink/dp/B07MW3GM1T)
