@@ -1,4 +1,4 @@
-DON'T USE CHARGERS LIKE ANKER 6ports and others in case you will use USB3 for M.2 disk
+NOTE: BE CAREFULLY TO USE CHARGERS LIKE ANKER 6ports and others in case you will use USB3 for M.2 disk
 
 - about $12+ MeanWell LRS-50-5 (5V 10A 50W) 99x82x30mm (LxWxH) 0.23Kg
 - about $18+ MeanWell LRS-100-5 (5V 18A 90W) 129x97x30mm (LxWxH) 0.34Kg
