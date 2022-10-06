@@ -1,3 +1,1 @@
 - [GeeekPi Raspberry Pi 4 Cluster Case](https://www.amazon.ca/GeeekPi-Raspberry-Transparent-Stackable-Heatsink/dp/B07MW3GM1T)
-- [GeeekPi Raspberry Pi 4 Cluster Case 4 Layer](https://www.amazon.com/GeeekPi-Raspberry-Cluster-Stackable-4-Layers/dp/B083FDHPBH)
-- [GeeekPi Raspberry Pi 4 Cluster Case 8 Layer](https://www.amazon.com/dp/B085XSPV7G)
