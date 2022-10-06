@@ -9,7 +9,7 @@ Install Raspberry Pi OS on SD card (lite without desktop version)
 Open Raspberry PI Imager
 ![Open Raspberry PI Imager](/assets/images/imager/rasp-os-step-1.png)
 Click on Operating System select Raspberry PI OS (other) and select Raspberry PI OS Lite (32-bit)
-![Open Raspberry PI Imager](/assets/images/imager/rasp-os-step-2.png)
+![Select Raspberry PI OS Lite](/assets/images/imager/rasp-os-step-2.png)
 Then click on Storage button to select SD Card drive.
 Then click on gear and enable SSH and set login/password
 
@@ -107,6 +107,22 @@ Then click Ok and then click Finish and then will ask for Reboot click Yes
 
 After the rebooting you can boot from SD Card and then shutdown the system to boot from USB drive with OS
 
-## OS
+## Prepare OS Ubuntu
 
-install Ubuntu Server 22.04 for ARM64 on SD Card and NVMe SSD
+[Download](https://ubuntu.com/download/raspberry-pi) Ubuntu Server ARM64 LTS for Raspberry PI 4
+
+install Ubuntu Server 22.04 for ARM64 on NVMe SSD
+
+Open Raspberry PI Imager
+![Open Raspberry PI Imager](/assets/images/imager/setup-ubuntu-step-1.png)
+Click on Use custom and select just downloaded Ubuntu Server image for Raspberry PI 4 ARM64 LTS
+The click on gear and set hostname, enable SSH
+![Set hostname](/assets/images/imager/setup-ubuntu-step-2.png)
+![Enable SSH](/assets/images/imager/setup-ubuntu-step-2.png)
+
+Set Username and Password
+![set login/password](/assets/images/imager/setup-ubuntu-step-3.png)
+
+if you will use WiFi internet connection set the SSID and the password
+![set the SSID and the password](/assets/images/imager/setup-ubuntu-step-4.png)
+Then click Save and then Write to start installing OS on USB Drive
