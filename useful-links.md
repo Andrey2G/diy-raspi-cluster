@@ -9,6 +9,8 @@ Contain a list of known working Sata/M.2 adapters
 
 [Raspberry Pi 4 Ubuntu 20.04 / 20.10 USB Mass Storage Boot Guide](https://jamesachambers.com/raspberry-pi-4-ubuntu-20-04-usb-mass-storage-boot-guide/)
 
+[Safe Shutdown](https://learn.sparkfun.com/tutorials/raspberry-pi-safe-reboot-and-shutdown-button/)
+
 K8s
 [K8s on Raspbian Gist](https://gist.github.com/alexellis/fdbc90de7691a1b9edb545c17da2d975)
 [Kuvernetes on Raspbian](https://github.com/alexellis/k8s-on-raspbian)
@@ -18,3 +20,4 @@ K8s
 [Pi-Akka-Cluster](https://github.com/lightbend/Pi-Akka-Cluster)
 
 [Kubernetes tutorial - Install Kubernetes on Raspberry Pi fast in 2022](https://www.youtube.com/watch?v=rOXkutK8ANc)
+

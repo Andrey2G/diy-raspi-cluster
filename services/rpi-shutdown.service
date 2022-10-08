@@ -1,0 +1,11 @@
+[Unit]
+Description=RPI Shutdown service
+After=multi-user.target
+
+[Service]
+Type=simple
+Restart=always
+ExecStart=/usr/bin/python3 /usr/bin/rpi-shutdown.py
+
+[Install]
+WantedBy=multi-user.target
